@@ -1,3 +1,4 @@
+![motivation 6png](https://github.com/yvsmlk/yvsmlk/assets/118189708/1b227ffb-4d8f-44e3-9ca0-c6af48a9f4e3)
 <h1 align="center">Hi 👋, I'm yvsmlk</h1>
 <h3 align="center">A passionate backend developer from Belgium</h3>
 
